@@ -16,6 +16,12 @@ int main() {
 
   std::cout << "Last doors passed" << std::endl;
   for (bool door : doors) {
-    std::cout << door << " ";
+    if (door == 0){
+      std::cout << "Door: " << "close" << std::endl;
+    } else {
+      std::cout << "Door: " << "open" << std::endl;
+
+    }
+   
   }
 }
