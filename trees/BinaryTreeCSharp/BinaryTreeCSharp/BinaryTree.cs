@@ -3,6 +3,7 @@ namespace BinaryTreeCSharp;
 public class BinaryTree : IBinaryTree
 {
     private Node? Root { get; set; }
+    private int _keycounter = 0;
 
     public void Clear()
     {
@@ -14,14 +15,57 @@ public class BinaryTree : IBinaryTree
         return Root == null;
     }
 
-    public Node Search(int key)
+    public Node? Search(int key)
     {
-        throw new NotImplementedException();
+        Node? currentNode = Root;
+
+        while (currentNode != null)
+        {
+            if (currentNode.Key == key)
+            {
+                return currentNode;
+            }
+            else if (key < currentNode.Key)
+            {
+                currentNode = currentNode.Left;
+            }
+            else
+            {
+                currentNode = currentNode.Right;
+            }
+        }
+
+        return currentNode;
     }
 
-    public void Insert(int key, string value)
+    public void Insert(string value, Node? currentNode = null)
     {
-        throw new NotImplementedException();
+        if (Root == null)
+        {
+            Root = new Node(_keycounter++, value, null!, null!);
+            return;
+        }
+
+        if (Root.Value.Length > value.Length)
+        {
+            if (Root.Left == null!)  
+            {
+                Root.Left = new Node(_keycounter++, value, null!, null!);
+                return;
+            }
+            Insert(value, Root.Left);
+            
+        }
+        else if (Root.Value.Length < value.Length)
+        {
+            if (Root.Right == null!)
+            {
+                Root.Right = new Node(_keycounter++, value, null!, null!);
+                return;
+            }
+
+            Insert(value, Root.Right);
+        }
     }
 
     public void Delete(int key)
