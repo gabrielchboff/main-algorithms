@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/trees/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp.csproj",
+      "projectUniqueName": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp.csproj",
       "projectName": "BinaryTreeCSharp",
-      "projectPath": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/trees/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp.csproj",
+      "projectPath": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp.csproj",
       "packagesPath": "/home/gabriel/.nuget/packages/",
-      "outputPath": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/trees/BinaryTreeCSharp/BinaryTreeCSharp/obj/",
+      "outputPath": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/BinaryTreeCSharp/BinaryTreeCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabriel/.nuget/NuGet/NuGet.Config"

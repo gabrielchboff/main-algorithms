@@ -23,6 +23,4 @@ public class Node
     public override string ToString() => $"Key: {_key}, Value: {_value}";
     
     public Node? Next(Node otherKey) => _key < otherKey.Key ? _right : _left;
-    
-    
 }
