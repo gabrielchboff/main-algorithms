@@ -6,8 +6,12 @@ skip_list = SkipList()
 
 list_of_ids = [_ for _ in range(10000000)]
 
+start_time = time.time()
 for current_id in list_of_ids:
     skip_list.insert(current_id)
+end_time = time.time()
+
+print(f"Time taken to insert 10 million elements: {end_time - start_time} seconds")
 
 # skip_list.display()
 
@@ -38,4 +42,9 @@ end_time = time.time()
 print(f"Time taken to search for 1000000: {end_time - start_time} seconds")
 print(f"Search for 1000000: {large_number}")
 
+start_time = time.time()
+for ids in list_of_ids:
+    skip_list.delete(ids)
+end_time = time.time()
 
+print(f"Time taken to delete 10 million elements: {end_time - start_time} seconds")
