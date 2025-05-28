@@ -1,0 +1,6 @@
+﻿services:
+  todolistcsharp:
+    image: todolistcsharp
+    build:
+      context: .
+      dockerfile: TodolistCSharp/Dockerfile
