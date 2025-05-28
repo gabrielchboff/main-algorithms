@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/SkipList/skiplist/Cargo.toml">
+      <package file="$PROJECT_DIR$/SkipList/skiplist">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c92fe718-634a-40e9-99dc-98fcb44ad4c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/.idea/.idea.BinaryTreeCSharp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/.idea/.idea.BinaryTreeCSharp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/.idea/.idea.BinaryTreeCSharp/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/.idea/.idea.BinaryTreeCSharp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/BinarySearchTreeADT.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/BinaryTreeCSharp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/IBinarySearchTreeADT.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/Node.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/BinaryTreeCSharp.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/BinaryTreeCSharp.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/BinaryTreeCSharp.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/Debug/net9.0/BinaryTreeCSharp.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/Debug/net9.0/BinaryTreeCSharp.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/Debug/net9.0/BinaryTreeCSharp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/Debug/net9.0/BinaryTreeCSharp.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/Debug/net9.0/BinaryTreeCSharp.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeCSharp/BinaryTreeCSharp/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/src/binary_search_tree.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/src/node.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-888f8b6e55a9b631/bin-binary_tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-888f8b6e55a9b631/bin-binary_tree.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-888f8b6e55a9b631/dep-bin-binary_tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-888f8b6e55a9b631/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-d1540e33f419840c/dep-test-bin-binary_tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-d1540e33f419840c/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-d1540e33f419840c/test-bin-binary_tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/.fingerprint/binary_tree-d1540e33f419840c/test-bin-binary_tree.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/deps/binary_tree-888f8b6e55a9b631.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/deps/binary_tree-d1540e33f419840c.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/deps/libbinary_tree-888f8b6e55a9b631.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/deps/libbinary_tree-d1540e33f419840c.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-1ed7eod8npz09/s-h67innxg6v-08qt2xm-99079ko4sdormhphhg443apy1/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-1ed7eod8npz09/s-h67innxg6v-08qt2xm-99079ko4sdormhphhg443apy1/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-1ed7eod8npz09/s-h67innxg6v-08qt2xm-99079ko4sdormhphhg443apy1/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-1ed7eod8npz09/s-h67innxg6v-08qt2xm.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-3geyoo8otpmcg/s-h67innxet3-01v4ioz-0jbxgxpo2lpjpd5n2bx5j2u60/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-3geyoo8otpmcg/s-h67innxet3-01v4ioz-0jbxgxpo2lpjpd5n2bx5j2u60/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-3geyoo8otpmcg/s-h67innxet3-01v4ioz-0jbxgxpo2lpjpd5n2bx5j2u60/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeRUST/binary_tree/target/debug/incremental/binary_tree-3geyoo8otpmcg/s-h67innxet3-01v4ioz.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/TodolistCSharp/TodolistCSharp/obj/Debug/net9.0/TodolistCSharp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/TodolistCSharp/TodolistCSharp/obj/Debug/net9.0/TodolistCSharp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/TodolistCSharp/TodolistCSharp/obj/Debug/net9.0/TodolistCSharp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/TodolistCSharp/TodolistCSharp/obj/Debug/net9.0/TodolistCSharp.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="oEvgb3Wl" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2xT7et0yiBqTjnoGKyGZQPFbTF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "teste",
+    "last_opened_file_path": "/run/media/gabriel/HD/para_folders/1-Projects/main-algorithms/SkipList/skiplist",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package main-algorithms --bin main-algorithms" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92fe718-634a-40e9-99dc-98fcb44ad4c8" name="Changes" comment="" />
+      <created>1747950308042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747950308042</updated>
+      <workItem from="1747950309839" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
